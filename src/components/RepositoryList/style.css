@@ -1,0 +1,9 @@
+.repository-list {
+  padding: 0 80px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 15px 12px;
+  border-bottom: 1px solid lightgray;
+}
