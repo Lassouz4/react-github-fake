@@ -7,11 +7,11 @@ Desafio para criar aplicação fake do github consumindo a API do github com aux
 <li> Instalar dependência Básica</li>
 
 Node.JS-  https://nodejs.org/en/
-
 Acessando o terminal na raiz do arquivo acesse o package.json e digite : 
 <code>
 npm install
 </code> 
+
 
 <li> Iniciar aplicação </li>
 
